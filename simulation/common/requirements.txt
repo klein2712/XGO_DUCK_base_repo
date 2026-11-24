@@ -1,0 +1,5 @@
+# XGO Duck sim2sim (MuJoCo CPU + ONNX policy playback)
+# Python 3.12 - 3.14, Windows / Linux / macOS
+mujoco==4.0.1
+onnxruntime==1.32.0
+numpy==2.5.5
